@@ -1,17 +1,24 @@
-# Hi 👋 My name is Yassine Barfaid
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Yassine+Barfaid" alt="Typing SVG" />
+</div>
 
-**Full-Stack developer**
+<div align="center">
+  <h2>Full-Stack Developer</h2>
+  <p>Turning ideas into reality through code 🚀</p>
+</div>
 
-**BAS276/BAS276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-I started programming 2 years ago with web development.
+### About Me
+I started programming 2 years ago with web development and have since grown into a passionate Full-Stack Developer. I enjoy building seamless and efficient applications, from front-end design to back-end logic.
 
-- 🌍 I'm based in Morocco
-- ✉️ You can contact me at (ybarfaid@gmail.com)
-- ⚡ I’m actually a coding wizard 🧙‍♂️… but let’s keep that between us!
+- 🌍 **Based in:** Morocco
+- ✉️ **Email:** [ybarfaid@gmail.com](mailto:ybarfaid@gmail.com)
+- ⚡ **Fun Fact:** I’m actually a coding wizard 🧙‍♂️… but let’s keep that between us!
 
-## Skills
+---
+
+## 🛠️ Skills
 
 ### Basics
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,10 +49,28 @@ I started programming 2 years ago with web development.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## Socials
+---
 
-[![x](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://x.com/BarfaidYassin))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/barfaid.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-barfaid-5703b8256/)
+## 🌐 Socials
+<div align="center">
+  <a href="https://x.com/BarfaidYassin">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/barfaid.dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/yassine-barfaid-5703b8256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BAS276&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAS276&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BAS276&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
