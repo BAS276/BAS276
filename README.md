@@ -18,39 +18,39 @@ I started programming 2 years ago with web development and have since grown into
 
 ---
 
-## 🛠️ Skills
 ## Skills
 
 ### Basics
-- HTML  
-- CSS  
-- JavaScript  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)  
 
 ### Framework
-- Bootstrap  
-- React  
-- Express.js  
-- Laravel  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square)  
 
 ### Design
-- Figma  
-- Photoshop  
-- Adobe XD  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square)  
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square)  
 
 ### Backend
-- SQL  
-- MySQL  
-- MongoDB  
-- Node.js  
-- PHP  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square)  
 
 ### Extra
-- Git  
-- GitHub  
-- Docker  
-- Postman  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square)  
 
 ## Socials
-- [Facebook](https://facebook.com/yourprofile)  
-- [Instagram](https://www.instagram.com/barfaid.dev/)  
-- [LinkedIn](https://www.linkedin.com/in/yassine-barfaid-5703b8256/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](https://facebook.com/yourprofile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square)](https://www.instagram.com/barfaid.dev/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/yassine-barfaid-5703b8256/)
