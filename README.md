@@ -1,7 +1,7 @@
 # Hi 👋 My name is Yassine Barfaid
 
 **Full-Stack developer**
-<!--
+
 **BAS276/BAS276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,4 +23,4 @@ I started programming 2 years ago with web development.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/barfaid.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-barfaid-5703b8256/)
 
--->
+
