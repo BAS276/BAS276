@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Yassine+Barfaid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB¢er=true&vCenter=true&width=500&lines=Hi+👋+I'm+Yassine+Barfaid" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,100 +20,74 @@ I started programming 2 years ago with web development and have since grown into
 
 ## Skills
 
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
-  }
-  .skill-badge {
-    display: flex;
-    align-items: center;
-    padding: 8px 12px;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    color: white;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-    min-width: 120px;
-  }
-  .skill-badge img {
-    width: 20px;
-    height: 20px;
-    margin-right: 8px;
-  }
-</style>
-
-<div class="skills-container">
-  <div class="skill-badge" style="background-color: #E34F26;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" alt="HTML5">
-    <span>HTML5</span>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="background-color: #E34F26; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" width="20" height="20" style="margin-right: 8px;" alt="HTML5">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">HTML5</span>
   </div>
-  <div class="skill-badge" style="background-color: #1572B6;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/css3/css3-original.svg" alt="CSS3">
-    <span>CSS3</span>
+  <div style="background-color: #1572B6; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/css3/css3-original.svg" width="20" height="20" style="margin-right: 8px;" alt="CSS3">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">CSS3</span>
   </div>
-  <div class="skill-badge" style="background-color: #F7DF1E;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <span>JAVASCRIPT</span>
+  <div style="background-color: #F7DF1E; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" width="20" height="20" style="margin-right: 8px;" alt="JavaScript">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">JAVASCRIPT</span>
   </div>
-  <div class="skill-badge" style="background-color: #563D7C;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
-    <span>BOOTSTRAP</span>
+  <div style="background-color: #563D7C; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/bootstrap/bootstrap-original.svg" width="20" height="20" style="margin-right: 8px;" alt="Bootstrap">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">BOOTSTRAP</span>
   </div>
-  <div class="skill-badge" style="background-color: #61DAFB;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React">
-    <span>REACT</span>
+  <div style="background-color: #61DAFB; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" width="20" height="20" style="margin-right: 8px;" alt="React">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">REACT</span>
   </div>
-  <div class="skill-badge" style="background-color: #4F5B62;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original.svg" alt="Express.js">
-    <span>EXPRESS.JS</span>
+  <div style="background-color: #4F5B62; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original.svg" width="20" height="20" style="margin-right: 8px;" alt="Express.js">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">EXPRESS.JS</span>
   </div>
-  <div class="skill-badge" style="background-color: #FF2D20;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/laravel/laravel-plain.svg" alt="Laravel">
-    <span>LARAVEL</span>
+  <div style="background-color: #FF2D20; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/laravel/laravel-plain.svg" width="20" height="20" style="margin-right: 8px;" alt="Laravel">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">LARAVEL</span>
   </div>
-  <div class="skill-badge" style="background-color: #F24E1E;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma">
-    <span>FIGMA</span>
+  <div style="background-color: #F24E1E; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" width="20" height="20" style="margin-right: 8px;" alt="Figma">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">FIGMA</span>
   </div>
-  <div class="skill-badge" style="background-color: #00C7B7;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/photoshop/photoshop-plain.svg" alt="Photoshop">
-    <span>PHOTOSHOP</span>
+  <div style="background-color: #00C7B7; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/photoshop/photoshop-plain.svg" width="20" height="20" style="margin-right: 8px;" alt="Photoshop">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">PHOTOSHOP</span>
   </div>
-  <div class="skill-badge" style="background-color: #4479A1;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original.svg" alt="MySQL">
-    <span>MYSQL</span>
+  <div style="background-color: #4479A1; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original.svg" width="20" height="20" style="margin-right: 8px;" alt="MySQL">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">MYSQL</span>
   </div>
-  <div class="skill-badge" style="background-color: #47A248;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-    <span>MONGODB</span>
+  <div style="background-color: #47A248; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mongodb/mongodb-original.svg" width="20" height="20" style="margin-right: 8px;" alt="MongoDB">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">MONGODB</span>
   </div>
-  <div class="skill-badge" style="background-color: #68A063;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" alt="Node.js">
-    <span>NODE.JS</span>
+  <div style="background-color: #68A063; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" width="20" height="20" style="margin-right: 8px;" alt="Node.js">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">NODE.JS</span>
   </div>
-  <div class="skill-badge" style="background-color: #777BB4;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg" alt="PHP">
-    <span>PHP</span>
+  <div style="background-color: #777BB4; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg" width="20" height="20" style="margin-right: 8px;" alt="PHP">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">PHP</span>
   </div>
-  <div class="skill-badge" style="background-color: #F05032;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/git/git-original.svg" alt="Git">
-    <span>GIT</span>
+  <div style="background-color: #F05032; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/git/git-original.svg" width="20" height="20" style="margin-right: 8px;" alt="Git">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">GIT</span>
   </div>
-  <div class="skill-badge" style="background-color: #181717;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" alt="GitHub">
-    <span>GITHUB</span>
+  <div style="background-color: #181717; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" width="20" height="20" style="margin-right: 8px;" alt="GitHub">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">GITHUB</span>
   </div>
-  <div class="skill-badge" style="background-color: #2496ED;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/docker/docker-original.svg" alt="Docker">
-    <span>DOCKER</span>
+  <div style="background-color: #2496ED; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/docker/docker-original.svg" width="20" height="20" style="margin-right: 8px;" alt="Docker">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">DOCKER</span>
   </div>
-  <div class="skill-badge" style="background-color: #EF3B2D;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postman/postman-original.svg" alt="Postman">
-    <span>POSTMAN</span>
+  <div style="background-color: #EF3B2D; color: white; padding: 8px 12px; border-radius: 8px; display: inline-flex; align-items: center; min-width: 120px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postman/postman-original.svg" width="20" height="20" style="margin-right: 8px;" alt="Postman">
+    <span style="font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">POSTMAN</span>
   </div>
 </div>
 
