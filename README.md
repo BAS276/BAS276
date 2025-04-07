@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB¢er=true&vCenter=true&width=500&lines=Hi+👋+I'm+Yassine+Barfaid" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Yassine+Barfaid" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,8 +12,8 @@
 ### About Me
 I started programming 2 years ago with web development and have since grown into a passionate Full-Stack Developer. I enjoy building seamless and efficient applications, from front-end design to back-end logic.
 
-- 🌍 **Based in:** Morocco
-- ✉️ **Email:** [ybarfaid@gmail.com](mailto:ybarfaid@gmail.com)
+- 🌍 **Based in:** Morocco  
+- ✉️ **Email:** [ybarfaid@gmail.com](mailto:ybarfaid@gmail.com)  
 - ⚡ **Fun Fact:** I’m actually a coding wizard 🧙‍♂️… but let’s keep that between us!
 
 ---
